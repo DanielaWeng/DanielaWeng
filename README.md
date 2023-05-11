@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**DanielaWeng/DanielaWeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Danni Weng. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### 🔭 I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[your current project]
+
+### 🌱 I'm currently learning
+
+[your current learning goal]
+
+### 💬 Ask me about
+
+[your areas of expertise or interest]
+
+### 📫 How to reach me
+
+[your contact information]
+
+### 😄 Pronouns
+
+[your preferred pronouns]
+
+### ⚡ Fun fact
+
+[your fun fact]
