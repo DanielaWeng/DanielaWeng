@@ -3,7 +3,7 @@
 I'm Danni Weng. Welcome to my GitHub profile!
 
 ### 😄  About me
-I have a strong background in finance, with knowledge in capital markets, global investments, and risk management. I am also skilled in machine learning and statistical modeling techniques, including reinforcement learning, neural networks, and logistic regression. My analytical skills allow me to collect and analyze information, evaluate data, and make sound decisions. I have experience in financial research, event analysis, and portfolio management. Currently pursuing an MSc in Finance at HEC Montreal.
+I have a strong background in finance, with knowledge in capital markets, global investments, and risk management. I am also skilled in machine learning and statistical modeling techniques, including reinforcement learning, neural networks, and logistic regression. My analytical skills allow me to collect and analyze information, evaluate data, and make sound decisions. I have experience in financial research, event analysis, and portfolio management. Currently pursuing an MSc in Finance at HEC Montreal and working as Co-op student at Supply Chain Finance team of Loblaw Companies Limited.
 
 ### 🔭 Currently looking for entry level opportunity start from April 29 2024. 
 
